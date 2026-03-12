@@ -66,32 +66,40 @@ The goal of this project is to:
 # 📁 Project Structure
 
 ```
-Data-Structure-and-Algorithms/
+Data-Structure-and-Algorithms
 │
-├── Searching/
+├── Searching
 │   ├── LinearSearch.cpp
 │   └── BinarySearch.cpp
 │
-├── Sorting/
+├── Sorting
 │   ├── BubbleSort.cpp
 │   ├── SelectionSort.cpp
 │   ├── InsertionSort.cpp
 │   ├── MergeSort.cpp
 │   └── QuickSort.cpp
 │
-├── LinkedList/
+├── LinkedList
 │   ├── SinglyLinkedList.cpp
 │   └── DoublyLinkedList.cpp
 │
-├── Stack/
-│   └── StackImplementation.cpp
+├── Stack
+│   ├── StaticStack.cpp
+│   └── DynamicStack.cpp
 │
-├── Queue/
-│   └── QueueImplementation.cpp
+├── Queue
+│   ├── StaticQueue.cpp
+│   └── DynamicQueue.cpp
 │
-└── HashTable/
-    └── HashTable.cpp
-```
+├── HashTable
+│   │
+│   ├── OpenHashing.cpp
+│   │
+│   └── ClosedHashing
+│       ├── LinearProbing.cpp
+│       └── QuadraticProbing.cpp
+│
+└── README.md
 
 ---
 
