@@ -44,9 +44,7 @@ This repository contains implementations of fundamental and advanced **data stru
 
 ## 📁 Project Structure
 
-file:///C:/Users/Classic/Downloads/dsa_project_structure%20(1).svg
-
-
+blob:https://claude.ai/ac76cfa9-a1eb-4d45-8fd9-86f73ca32cde
 
 ## 🎯 Goals of This Repository
 
