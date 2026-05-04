@@ -42,27 +42,6 @@ This repository contains implementations of fundamental and advanced **data stru
 
 ---
 
-## 📁 Project Structure
-----
-Data-Structure-and-Algorithms/
-│
-├── 📂 DSA Books/               # Reference materials and textbooks for learning
-│
-├── 📂 Hashing/                 # Hash tables and hashing techniques
-│
-├── 📂 LinkList/                # Singly, Doubly, and Circular Linked Lists
-│
-├── 📂 Queue/                   # Queue — FIFO data structures
-│
-├── 📂 Searching/               # Searching algorithms (Linear Search, Binary Search, etc.)
-│
-├── 📂 Sorting/                 # Sorting algorithms (Bubble, Selection, Insertion, Merge, Quick, etc.)
-│
-├── 📂 Stack/                   # Stack — LIFO data structures
-│
-└── 📂 Tree/                    # Binary Trees, Binary Search Trees (BST), Avl Tree and more
-
-----
 ## 🎯 Goals of This Repository
 
 * Strengthen problem-solving skills
