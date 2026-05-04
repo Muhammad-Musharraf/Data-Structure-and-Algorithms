@@ -43,7 +43,7 @@ This repository contains implementations of fundamental and advanced **data stru
 ---
 
 ## 📁 Project Structure
-
+----
 Data-Structure-and-Algorithms/
 │
 ├── 📂 DSA Books/               # Reference materials and textbooks for learning
@@ -62,7 +62,7 @@ Data-Structure-and-Algorithms/
 │
 └── 📂 Tree/                    # Binary Trees, Binary Search Trees (BST), Avl Tree and more
 
-
+----
 ## 🎯 Goals of This Repository
 
 * Strengthen problem-solving skills
