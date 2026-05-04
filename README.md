@@ -44,7 +44,24 @@ This repository contains implementations of fundamental and advanced **data stru
 
 ## 📁 Project Structure
 
-blob:https://claude.ai/ac76cfa9-a1eb-4d45-8fd9-86f73ca32cde
+Data-Structure-and-Algorithms/
+│
+├── 📂 DSA Books/               # Reference materials and textbooks for learning
+│
+├── 📂 Hashing/                 # Hash tables and hashing techniques
+│
+├── 📂 LinkList/                # Singly, Doubly, and Circular Linked Lists
+│
+├── 📂 Queue/                   # Queue — FIFO data structures
+│
+├── 📂 Searching/               # Searching algorithms (Linear Search, Binary Search, etc.)
+│
+├── 📂 Sorting/                 # Sorting algorithms (Bubble, Selection, Insertion, Merge, Quick, etc.)
+│
+├── 📂 Stack/                   # Stack — LIFO data structures
+│
+└── 📂 Tree/                    # Binary Trees, Binary Search Trees (BST), Avl Tree and more
+
 
 ## 🎯 Goals of This Repository
 
