@@ -44,7 +44,7 @@ This repository contains implementations of fundamental and advanced **data stru
 
 ## 📁 Project Structure
 
-<img width="1440" height="1240" alt="image" src="https://github.com/user-attachments/assets/c2e957d6-c3da-4b4f-9f4a-eacd0c760273" />
+file:///C:/Users/Classic/Downloads/dsa_project_structure%20(1).svg
 
 
 
