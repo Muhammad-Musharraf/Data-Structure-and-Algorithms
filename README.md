@@ -1,4 +1,4 @@
-# # Data Structures and Algorithms in C++
+🔹 # Data Structures and Algorithms in C++
 
 This repository provides a comprehensive collection of fundamental data structures and algorithms implemented in C++. It serves as a practical resource for students, developers, and anyone looking to strengthen their understanding of core computer science concepts.
 
